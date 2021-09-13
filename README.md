@@ -1,2 +1,2 @@
 # LarastartVue
-Simple Vue app 
+#### Simple Application built with laravel and Vue 2 js framework
